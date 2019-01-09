@@ -4,7 +4,7 @@
 
 ### Freshwater Biology 64:164-174 
 
-### Journal DOI: [10.1111/fwb.13204](https://onlinelibrary.wiley.com/doi/10.1111/fwb.13204)
+### Manuscript DOI: [10.1111/fwb.13204](https://onlinelibrary.wiley.com/doi/10.1111/fwb.13204)
 
 ### Please contact the first author for questions about the code or data: Erin R. Zylstra (ezylstra@email.arizona.edu)
 _____________________________________________________________________________
