@@ -19,7 +19,7 @@ _____________________________________________________________________________
 ## Main files
 We ran analyses in R using the RMark package (which calls Program MARK).  The data and code needed to run analyses described in the paper are contained in the following three files:
 
-1. [CensoredData_InputFile.inp](CensoredData_InputFile.inp): A text file formatted for Program MARK that contains capture histories, after censoring the initial observation of each individual, for post-metamorphic lowland leopard frogs in the Rincon Mountains between 2013 and 2015.
+1. [CensoredData_InputFile.inp](CensoredData_InputFile.inp): A text file formatted for Program MARK that contains capture histories (after censoring the initial observation of each individual) for post-metamorphic lowland leopard frogs in the Rincon Mountains between 2013 and 2015.
 2. [CensoredData_Covariates.csv](CensoredData_Covariates.csv): Covariates associated with each survey occasion or survey interval (after censoring the initial observation of each individual). The “duration” column lists the length of each interval between survey occasions, in days. Covariates are described in detail in the R code.
 3. [CensoredData_RMark.R](CensoredData_RMark.R): R code to import and format data for analyses in MARK, run Cormack-Jolly-Seber models, and summarize and plot results.
 
